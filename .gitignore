@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+
+# Golang binaries
+/bin/
+/vendor/
+
+# Config and secrets
+.env
+/configs/*.yaml
+
+# IDE settings
+.idea/
+.vscode/
+
